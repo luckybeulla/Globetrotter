@@ -47,7 +47,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 - [ ] **Interactive Features**
   - Implement a dropdown menu in the navigation bar for additional categories or sub-pages.
 
-- [ ] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
+- [X] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
 
 - [ ] **Interactive Navigation**: Enhance the usability of your navigation bar.
   - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.
@@ -61,9 +61,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`https://www.loom.com/share/ae682978f8dd4053a212694a292a31e9?sid=fb7047b6-53b6-4084-aac0-c73ed14af097`
 
 ### Reflection
 
@@ -102,4 +100,7 @@ Make sure I do not go over the allocated time.
 I appreciate instructor Erika for being patient me as I tried to understand how flexbox works. 
 
 Thanks to Ahmed I was able to use semantic html in my code
+
+Shoutout to my housemates for moral support, and specifically Kiahna for helping me figure out how to deploy the website
+
 
