@@ -4,7 +4,12 @@ Submitted by: **LUCKY BEULLA MUHOZA**
 
 Estimated time spent: **17** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site]
+(https://luckybeulla.github.io/Globetrotter/)
+
+For some reason, the website background does not show on the deployed website but is visible when I go live from VSCode. I attempted to fix it but did not succeed. 
+
+
 
 ### Application Features
 
